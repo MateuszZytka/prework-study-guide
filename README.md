@@ -1,6 +1,7 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
-## This guide is created for student going through the Front End Development bootcamp instructed by Uoft. It contains notes on HTML, CSS, git and JavaScript. Throughtout the process of creating this webpage I learned the basics of the aforementioned topics. 
+## Description
+This guide is created for student going through the Front End Development bootcamp instructed by Uoft. It contains notes on HTML, CSS, git and JavaScript. Throughtout the process of creating this webpage I learned the basics of the aforementioned topics. 
 
 
 ## Installation
